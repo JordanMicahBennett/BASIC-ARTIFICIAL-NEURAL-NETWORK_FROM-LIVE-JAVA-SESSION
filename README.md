@@ -2,6 +2,8 @@
 
   Author: Jordan Micah Bennett
   
+  Scenario: This is the repository from a live youtube session, where I write a working, basic artificial neural network from scratch, in roughly 1 hour. Video is now being uploaded to youtube.
+  
   Why?: This is practice writing of basic neural network from memory. I do this at the end of each year, or sometimes every 6 months, for practice of fundamentals. ([See other neural networks that  I've written.](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE))
   
   Date: December 1, 2018
