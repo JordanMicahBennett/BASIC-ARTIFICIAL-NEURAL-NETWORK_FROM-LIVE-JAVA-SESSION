@@ -3,12 +3,14 @@
   Author: Jordan Micah Bennett
   
   Scenario: This is a repository that concerns a live youtube session, where I write a working, basic artificial neural network from scratch in Java in roughly 1 hour. Video is now being uploaded to youtube.
+
+  Youtube-video: [Live youtube recording, of basic neural network from sratch](https://www.youtube.com/watch?v=OhRkCb8XGj0)
   
   Why?: This is practice writing of basic neural network from memory. I do this at the end of each year, or sometimes every 6 months, for practice of fundamentals. ([See other neural networks that  I've written.](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE))
   
   Date: December 1, 2018
   
-  The problem space is [X-OR inputs]( https://en.wikipedia.org/wiki/XOR_gate). So the model does xor input prediction.
+  The problem space is [X-OR inputs](https://en.wikipedia.org/wiki/XOR_gate). So the model does xor input prediction.
   
   Given two numbers in [X-OR space](https://en.wikipedia.org/wiki/XOR_gate), the model will try to guess the output.
   
