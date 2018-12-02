@@ -2,7 +2,7 @@
 
   Author: Jordan Micah Bennett
   
-  Scenario: This is a repository that concerns a live youtube session, where I write a working, basic artificial neural network from scratch in Java in roughly 1 hour. Video is now being uploaded to youtube.
+  Scenario: This is a repository that concerns a live youtube session, where I write a working, basic artificial neural network from scratch in Java in roughly 1 hour. 
 
   Youtube-video: [Live youtube recording, of basic neural network from sratch](https://www.youtube.com/watch?v=OhRkCb8XGj0)
   
