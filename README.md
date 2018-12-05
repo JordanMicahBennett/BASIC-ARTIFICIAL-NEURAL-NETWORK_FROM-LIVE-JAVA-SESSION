@@ -39,6 +39,8 @@ Description of video exercise
 
 3. Understanding/implementing the basic neural network from scratch, though optional, helps in applying more complicated machine learning libraries, such as tensorflow or mxnet etc.
 
+Fun-tip: Artificial Neural Networks power most smart applications today.
+
 4. The source code as exactly seen in [the video](https://www.youtube.com/watch?v=OhRkCb8XGj0
 ), is included in my github repository here, in the [source-code](https://github.com/JordanMicahBennett/BASIC-ARTIFICIAL-NEURAL-NETWORK_FROM-LIVE-JAVA-SESSION/tree/master/source%20code) directory.
 
