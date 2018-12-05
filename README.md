@@ -6,8 +6,13 @@
 
   Youtube-video: [Live youtube recording, of basic neural network from scratch](https://www.youtube.com/watch?v=OhRkCb8XGj0)
   
-  Why?: This is practice writing of basic neural network from memory. I do this at the end of each year, or sometimes every 6 months, for practice of fundamentals. ([See other neural networks that  I've written.](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE))
+  Why?: 
+  ====
+  This is practice writing of basic neural network from memory. I do this at the end of each year, or sometimes every 6 months, for practice of fundamentals. ([See other neural networks that  I've written.](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE))
   
+  
+  Overview
+  ====
   Date: December 1, 2018
   
   The problem space is [X-OR inputs](https://en.wikipedia.org/wiki/XOR_gate). So the model does xor input prediction.
@@ -25,7 +30,7 @@
   d) Input=(1,1) output should be 0
   
  
-Description
+Description of video exercise
 ====
 
 1. In the video, from my memory and understanding, without using the internet, machine learning libraries nor any other resource except for Java, I write a highly accurate/working basic artificial neural network from scratch in Java that does xor prediction.
@@ -50,7 +55,7 @@ Crucial note:
 
 [iii] This is because the model needs random weights, and was initialized with random weights, so there are a few/rare times when the model would return non-excellent results. 
 
-[iv] This can easily be fixed by initializing the model with a set of stored random weights (as I did in an earlier model, as seen in item [vi] below), or in familiar machine learning terms, "random seeds". What I could have done in the video, is additionally to save any set of weights that learned excellent representation of the input, then load those random, but saved weights all the time, or start of the program with something looking like random seeds, so as to attain excellent guesses 100% of the time, instead of roughly 95% of the time.
+[iv] This can easily be fixed by initializing the model with a set of stored random weights (as I did in an earlier model, as seen in item [vi] below), or in familiar machine learning terms, "random seeds". What I could have done in the video, is additionally to save any set of weights that learned excellent representation of the input, then load those random, but saved weights all the time, or start off the program with something looking like random seeds, so as to attain excellent guesses 100% of the time, instead of roughly 95% of the time.
 
 [v] Both random seeds or saved weights are common ways of loading good configurations of models, as seen below:
 
