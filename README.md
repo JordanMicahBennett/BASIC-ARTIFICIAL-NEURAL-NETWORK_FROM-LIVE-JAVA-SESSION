@@ -25,3 +25,42 @@
   d) Input=(1,1) output should be 0
   
  
+Description
+====
+
+1. In the video, from my memory and understanding, without using the internet, machine learning libraries nor any other resource except for Java, I write a highly accurate/working basic artificial neural network from scratch in Java that does xor prediction.
+
+2. I practice this way every once in a while, to keep the basic neural network fresh-ish in mind mind.
+
+3. Understanding/implementing the basic neural network from scratch, though optional, helps in applying more complicated machine learning libraries, such as tensorflow or mxnet etc.
+
+4. The source code as exactly seen in this video, is included in my github repository below:
+
+https://github.com/JordanMicahBennett/BASIC-ARTIFICIAL-NEURAL-NETWORK_FROM-LIVE-JAVA-SESSION
+
+
+
+
+
+Crucial note:
+====
+[i] At time 1:45:39, I mentioned that I changed nothing, and the model suddenly starts to return excellent guesses at what the output should be.
+
+[ii] In the video, shortly before I saw good results after the time above, and after fixing some minor problems, the model was still momentarily returning guesses that were not excellent.
+
+[iii] This is because the model needs random weights, and was initialized with random weights, so there are a few/rare times when the model would return non-excellent results. 
+
+[iv] This can easily be fixed by initializing the model with a set of stored random weights (as I did in an earlier model, as seen in item [vi] below), or in familiar machine learning terms, "random seeds". What I could have done in the video, is additionally to save any set of weights that learned excellent representation of the input, then load those random, but saved weights all the time, or start of the program with something looking like random seeds, so as to attain excellent guesses 100% of the time, instead of roughly 95% of the time.
+
+[v] Both random seeds or saved weights are common ways of loading good configurations of models, as seen below:
+
+[vi] Save/Load Weights example [0] ~ A prior matrix based model of mine, where I store and load good initial weights: https://github.com/JordanMicahBennett/NEURAL-NETWORK-SIMPLE-MATRIX-VERSION/
+
+[vii] Save/Load Weights example [1] ~ Tensorflow save and restore functionality, a somewhat similar scenario, where a learnt model can be saved: https://www.tensorflow.org/guide/saved_model
+
+[viii] Random seed example: 
+https://machinelearningmastery.com/reproducible-results-neural-networks-keras/
+
+
+
+
