@@ -49,7 +49,7 @@ Description of video exercise
 
 Crucial note:
 ====
-[i] At time 1:45:39, I mentioned that I changed nothing, and the model suddenly starts to return excellent guesses at what the output should be.
+[i] At time 1:45:39, I mentioned that I changed nothing, and after time stamp 1:45:39 in the video, the model suddenly started to return excellent guesses at what the output should be, as seen in video at time 1:46:26 and beyond.
 
 [ii] In the video, shortly before I saw good results after the time above, and after fixing some minor problems, the model was still momentarily returning guesses that were not excellent.
 
