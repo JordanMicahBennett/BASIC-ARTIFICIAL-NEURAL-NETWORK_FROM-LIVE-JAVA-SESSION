@@ -1,6 +1,6 @@
 # BASIC-ARTIFICIAL-NEURAL-NETWORK_FROM-LIVE-JAVA-SESSION
 
-  Author: Jordan Micah Bennett
+  Author: God Bennett
   
   Scenario: This is a repository that concerns a live youtube session, where I write a working, basic artificial neural network from scratch in Java in roughly 1 hour. 
 
